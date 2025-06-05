@@ -39,10 +39,6 @@ DarkMode2 是一个开源软件，用于自动切换 Windows 10/11 系统的颜�
 [.NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer)
 [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
 
-<a href="https://apps.microsoft.com/detail/9n00zv4r45j8?referrer=appbadge&mode=direct">
-	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
-</a>
-
 ---
 
 ## 🖱️安装与使用
@@ -51,6 +47,12 @@ DarkMode2 是一个开源软件，用于自动切换 Windows 10/11 系统的颜�
 2. 在本地文件夹中，双击运行 DarkMode 2.exe。
 3. 根据需要进行配置，并保存设置。
 4. DarkMode2 会在后台运行，并根据您的设置自动切换颜色模式。
+
+   推荐通过 Microsoft Store 下载。
+
+<a href="https://apps.microsoft.com/detail/9n00zv4r45j8?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 ---
 
