@@ -39,16 +39,9 @@ DarkMode2 是一个开源软件，用于自动切换 Windows 10/11 系统的颜�
 [.NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer)
 [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
 
-<script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
-<ms-store-badge
-	productid="9n00zv4r45j8"
-	productname="DarkMode 2"
-	window-mode="direct"
-	theme="auto"
-	size="large"
-	language="zh-cn"
-	animation="off">
-</ms-store-badge>
+<a href="https://apps.microsoft.com/detail/9n00zv4r45j8?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 ---
 
